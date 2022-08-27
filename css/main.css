@@ -650,13 +650,13 @@ input:focus + .modal-form__icon-email {
   fill: #2196f3;
 }
 
-.modal-form__text-privacy {
+bnvnvbnv .modal-form__text-privacy {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
 }
-.modal-form__text-privacy::before {
+bnvnvbnv .modal-form__text-privacy::before {
   display: inline-block;
   content: "";
   width: 16px;
